@@ -1,4 +1,4 @@
-# InstagramUser
+1dfd9ebf6b53b976c860caf51a4a4d604d9764ee9f3eeb97d2e9cc04ead20c11# InstagramUser
 
 [![Gem Version](https://img.shields.io/gem/v/instagram_user.svg?style=flat)](http://badge.fury.io/rb/instagram_user)
 [![Coverage Status](https://img.shields.io/coveralls/YuzuruS/instagram_user.svg?style=flat)](https://coveralls.io/r/YuzuruS/instagram_user?branch=master)
